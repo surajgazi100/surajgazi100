@@ -8,7 +8,7 @@
 After completing jr college I was with two interest One was coding and the other was a curiosity to study the car design. So I decided to Take B.tech in mechanical engineering . During this duration, I studied c-programming, python, Machine learning, Designing, C.F.D, Analysis, Automobile, Artificial intelligence, Aerospace, Bussiness development. Till now I am a final year and still developing more skills to add to the profession.
 I do my work on the basis of my target. If I set my target that means I can't do anything without completing that task. For me, engineering is a field where you can bring your dream into reality. Everything is possible to innovate with the knowledge of the filed and practical approach.During my B.Tech college time, I just got shortlisted for entrepreneurship in Istanbul. Also, I have been selected In the smart India Hackathon where my curiosity for design has increased to a high level.
 Anyone interested in technical discussion, I am always in touch. 
-- ⚡ Fun fact: Very Much foody<br>
+- ⚡ Fun fact:The only state that can be typed on the same line of a QWERTY keyboard is Alaska. You just checked didn’t you?<br>
 <h1>Languages and Tools</h1></br>
 <img height="32" Width ="32" src="https://github.com/hanskellner/Fusion360Image2Surface/raw/master/Resources/image2surface/32x32.png"><img align = "left" alt = "python"  width ="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="32" Width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <details>
