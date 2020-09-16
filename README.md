@@ -1,6 +1,6 @@
 ### Hola, I'm Suraj Gazi👋
 -
-⚡<h1>Technology</h1>
+
 🔭 I’m currently working on Autodesk Student patner
 - 🌱 I’m currently learning 3d Design and Machine learning
 - 👯 I’m looking to collaborate on You Tube
