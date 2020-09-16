@@ -9,4 +9,5 @@ After completing jr college I was with two interest One was coding and the other
 I do my work on the basis of my target. If I set my target that means I can't do anything without completing that task. For me, engineering is a field where you can bring your dream into reality. Everything is possible to innovate with the knowledge of the filed and practical approach.During my B.Tech college time, I just got shortlisted for entrepreneurship in Istanbul. Also, I have been selected In the smart India Hackathon where my curiosity for design has increased to a high level.
 Anyone interested in technical discussion, I am always in touch. 
 - ⚡ Fun fact: Very Much foody
-
+Languages and Tools
+<img height="32" Width ="32" src="https://github.com/hanskellner/Fusion360Image2Surface/raw/master/Resources/image2surface/32x32.png">
