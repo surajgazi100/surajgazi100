@@ -16,7 +16,7 @@ Anyone interested in technical discussion, I am always in touch.
   <img align="left" alt ="surajgazi GitHubs stats" src="https://github-readme1-stats.surajgazi100.vercel.app///api?username=surajgazi100&theme=dark&show_icons=true&show_icons=true&hide_border=true"/>
   </details>
 "
-![Twitter Follow](https://img.shields.io/twitter/follow/surajga82858043?color=1DA1F2&logo=Twitter)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/surajga82858043?color=1DA1F2&logo=Twitter">
 
 
 
