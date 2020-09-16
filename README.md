@@ -11,6 +11,11 @@ Anyone interested in technical discussion, I am always in touch.
 - ⚡ Fun fact: Very Much foody<br>
 <h1>Languages and Tools</h1></br>
 <img height="32" Width ="32" src="https://github.com/hanskellner/Fusion360Image2Surface/raw/master/Resources/image2surface/32x32.png"><img align = "left" alt = "python"  width ="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="32" Width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<details>
+  <summary>:zap:GitHub Stats</summary>
+  <img align ="left" alt="SURAJGAZI100's GitHub Stats" src="https://github-readme-stats-three-virid-94.vercel.app/app/api?username=surajgazi100&show_icons=true&hide_border=true"/>
+  </details>
+"
 
 
 
