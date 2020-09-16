@@ -13,7 +13,7 @@ Anyone interested in technical discussion, I am always in touch.
 <img height="32" Width ="32" src="https://github.com/hanskellner/Fusion360Image2Surface/raw/master/Resources/image2surface/32x32.png"><img align = "left" alt = "python"  width ="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="32" Width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <details>
   <summary>:zap:GitHub Stats</summary>
-  <img align="left" alt ="surajgazi GitHubs stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&show_icons=true&hide_border=true"/>
+  <img align="left" alt ="surajgazi GitHubs stats" src="https://github-readme1-stats.surajgazi100.app//api?username=surajgazi100&theme=dark&show_icons=true&show_icons=true&hide_border=true"/>
   </details>
 "
 
