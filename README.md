@@ -19,7 +19,7 @@ Anyone interested in technical discussion, I am always in touch.
   </details>
 "
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/surajga82858043?color=1DA1F2&logo=Twitter">
-https://surajgazi100/ghpvc/?username=your-github-username
+
 
 
 
