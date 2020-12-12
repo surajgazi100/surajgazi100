@@ -11,13 +11,7 @@ Professionalism is power.
 . 
 - ⚡ Fun fact:The only state that can be typed on the same line of a QWERTY keyboard is Alaska. You just checked didn’t you?<br>
 <h1>Languages and Tools</h1></br>
-<img height="32" Width ="32" src="https://github.com/hanskellner/Fusion360Image2Surface/raw/master/Resources/image2surface/32x32.png"><img align = "left" alt = "python"  width ="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="32" Width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<details>
-  <summary>:zap:GitHub Stats</summary>
-  <img align="left" alt ="surajgazi GitHubs stats" src="https://github-readme1-stats.surajgazi100.vercel.app///api?username=surajgazi100&theme=dark&show_icons=true&show_icons=true&hide_border=true"/>
-  </details>
-"
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/surajga82858043?color=1DA1F2&logo=Twitter">
+
 
 
 
